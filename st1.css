@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: linear-gradient(to right,rgba(255, 0, 0, 0.63),rgba(255, 0, 0, 0.63));
+}
+h1{
+    text-align: center;
+    color: red;
+}
+.container{
+    background-color: white;
+    padding: 20px;
+    border:  rgba(73, 67, 67, 0.712);
+    max-width: fit-content;
+    align-items: center;
+    border-radius: 14px;
+    align-items: center;
+}
+button{
+    background-color: red;
+    border-radius: 4px;
+    padding: 9px;
+    color: white;
+    border: black;
+}
+.item{
+    padding-left: 91px;
+    justify-content: center;
+}
